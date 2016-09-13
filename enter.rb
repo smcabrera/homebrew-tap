@@ -9,6 +9,9 @@ class Enter < Formula
   version "1.0.0"
   sha256 "8533ceb22cf8561476e9557d4be978539c5c1b13254f7a20819b6a76ff37ca5c"
 
+  depends_on "pick"
+  depends_on "tmux"
+
   def install
     bin.install "enter"
   end
