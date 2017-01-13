@@ -7,7 +7,7 @@ class Enter < Formula
   homepage "https://github.com/smcabrera/enter"
   url "https://github.com/smcabrera/enter/archive/1.1.0.tar.gz"
   version "1.0.0"
-  sha256 "8533ceb22cf8561476e9557d4be978539c5c1b13254f7a20819b6a76ff37ca5c"
+  sha256 "7fed133a07367fec86dbc13e27a8ed76d9a629ef0ef781fd2d234ca966b9b513"
 
   depends_on "pick"
   depends_on "tmux"
