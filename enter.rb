@@ -5,7 +5,7 @@
 class Enter < Formula
   desc "Start hacking on your projects fast. Quickly select among your projects and open a tmux session for it."
   homepage "https://github.com/smcabrera/enter"
-  url "https://github.com/smcabrera/enter/archive/1.0.0.tar.gz"
+  url "https://github.com/smcabrera/enter/archive/1.1.0.tar.gz"
   version "1.0.0"
   sha256 "8533ceb22cf8561476e9557d4be978539c5c1b13254f7a20819b6a76ff37ca5c"
 
